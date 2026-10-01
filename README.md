@@ -40,7 +40,7 @@ Thêm tool thì thêm một dòng vào bảng:
 ````markdown
 # <tên tool>
 
-**Giải quyết:** [P-NNN](../../problem-backlog.md#p-nnn) — tóm tắt pain point
+**Giải quyết:** [P-NNN](../problem-backlog.md#p-nnn) — tóm tắt pain point
 
 ## Pain point
 Trước khi có tool: làm thế nào, mất bao lâu, hay sai kiểu gì. Link CVAT tới ca điển hình.
